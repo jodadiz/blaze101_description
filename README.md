@@ -18,6 +18,6 @@ This repository contains the URDF and 3D mesh files necessary to integrate the B
 
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/your_username/blaze101_description.git
+git clone https://github.com/jodadiz/blaze101_description.git
 cd ~/catkin_ws
 catkin_make
