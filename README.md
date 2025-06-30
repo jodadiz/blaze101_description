@@ -11,3 +11,13 @@ This repository contains the URDF and 3D mesh files necessary to integrate the B
 - **Robot model integration**: Allows visualization of the Blaze-101 camera directly in RViz, linked properly to the robot's TF tree.
 - **Custom 3D mesh**: Includes a detailed `.dae` model of the Blaze-101 for accurate rendering.
 - **URDF/Xacro macros**: Easy to include and position on custom robot URDFs.
+
+## ⚙️ Usage
+
+1. Clone this repository into your workspace:
+
+```bash
+cd ~/catkin_ws/src
+git clone https://github.com/your_username/blaze101_description.git
+cd ~/catkin_ws
+catkin_make
