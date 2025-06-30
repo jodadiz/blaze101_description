@@ -12,16 +12,6 @@ This repository contains the URDF and 3D mesh files necessary to integrate the B
 - **Custom 3D mesh**: Includes a detailed `.dae` model of the Blaze-101 for accurate rendering.
 - **URDF/Xacro macros**: Easy to include and position on custom robot URDFs.
 
-## 📁 Structure
-
-blaze101_description/
-├── CMakeLists.txt
-├── package.xml
-├── meshes/
-│ └── baslerBlaze101.dae
-├── urdf/
-│ └── blaze101.urdf.xacro
-
 ## ⚙️ Usage
 
 1. Clone this repository into your workspace:
